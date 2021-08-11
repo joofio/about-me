@@ -3,7 +3,7 @@ _Pharmacist, Data Scientist and Healthcare standards engineer based in Porto, Po
 
 [Email](mailto:joaofcalmeida@outlook.com) / [LinkedIn](https://www.linkedin.com/in/joaofilipealmeida/) / [GitHub](https://github.com/joofio/) / [Twitter](https://twitter.com/4Elemento/)
 
-## 💻 Technical Experience
+## 💻 Experience
 
 **Data Scientist & Interoperability Engineer** @ [HLTSYS](http://hltsys.pt/) _(June 2018 - Present)_ <br>
 Data science applied to clinical data for over 5 hospitals. Focused on data quality, visualization, data pipeline creation and process mining. Experience with implementing over 7 models for different clients in production. Expertise in healthcare information standards and CI/CD.    
@@ -27,7 +27,7 @@ Applying Data Science to healthcare.
   - **_Technologies used:_** NLTK, Scispacy, MariaDB, Pytorch, NLP, REST, Python, R.
 
 
-**Integration Analyst** @ [ALERT LIFE SCIENCES COMPUTING](https://www.alert-online.com/) _(May 2018 - Nov 2016)_ <br>
+**Integration Analyst** @ [Alert Life Sciences Computing](https://www.alert-online.com/) _(May 2018 - Nov 2016)_ <br>
 Aimed to provide the best medication information for the software in 13 countries. Integrated different information sources into the product, along with communicating with clients, governmental institutions and information providers. 
   - Integration of several data sources into the application
   - Creating ETL processes for incremental updates of information, focusing on data quality and patient safety
@@ -35,7 +35,7 @@ Aimed to provide the best medication information for the software in 13 countrie
   - **_Technologies used:_** REST, SOAP, Agile, ETL processes, Data Quality Assessment, Scrum, Python, UMLS, VIDAL, PHP, Oracle.
   <br><br>
 
-**Data Analyst** @ [ALERT LIFE SCIENCES COMPUTING](https://www.alert-online.com/) _(May 2018 - Nov 2016)_ <br>
+**Data Analyst** @ [Alert Life Sciences Computing](https://www.alert-online.com/) _(May 2018 - Nov 2016)_ <br>
 Data and business analysis for hospitals in over 13 countries. Great involvement with features development, helping both functional analysis and development teams.
   - Quality control of content produced for 1+ years
   - Functional analysis for several features for 3+ years
@@ -44,21 +44,25 @@ Data and business analysis for hospitals in over 13 countries. Great involvement
 
 ## 📌 Projects
 
-**Data Synthesis Survey** <br>
+[**Data Synthesis Survey**](https://github.com/joofio/awesome-data-synthesis) <br>
 Survey of the literature compiling all publicly available repositories for data synthesis, focus on tabular and healthcare data. Process-driven and data-driven as well evaluation metrics catalogued.
   - **_Key Aspects:_** GAN, Bayesian Network, VAE, Machine-Learning, Synthetic data, Data Augmentation
   <br><br>
 
-**PY4CHEMOINFORMATICS** <br>
+[**PY4ChemoInformatics**](https://github.com/joofio/py4chemoinformatics) <br>
 Tutorial for using python for chemoinformatics.
   - **_Key Aspects:_** Chemoinformatincs, Python, Drug Discovery, Data visualization
   <br><br>
   
-**Drug Database Tools** <br>
+[**Drug Database Tools**](https://github.com/joofio/DrugDatabasesTools) <br>
 Tools for consuming drug information databases with several formats and export them normalized into CSV.
   - **_Key Aspects:_** CSV, REST, PubChem, RDKit, ChEMBL
   <br><br>
-  
+
+[**FHIR Server on Heroku**](https://github.com/joofio/hapi-fhir-jpaserver-starter) <br>
+A FHIR server based on HAPI that automatically compiles, build docker image and deploys to Heroku.
+  - **_Key Aspects:_** FHIR, Maven, JAVA, Docker, Heroku, DevOPS
+  <br><br>
 
 ## 📃 Publications
     
@@ -79,11 +83,11 @@ IEFP
 
 **HL7 Portugal**    _2018 - Present_   
 Portuguese chapter of the HL7 foundation. Focused on gathering and sharing information about the HL7 standard as well as providing formation and certification in order to improve healthcare interoperability.  
-**E-MAIS**    _2017 - Present_    
+**E-mais**    _2017 - Present_    
 One of the Portuguese representatives in the EFMI (European Federation for Medical Informatics), focused on everything related to digital health.  
-**IHE PHARMACY MEMBER**  _2016 - Present_  
+**IHE Pharmacy**  _2016 - Present_  
 A worldwide institution focused on helping to build better information exchange profiles for healthcare facilities and health information Systems.
-**UNDERGRADUATE RESEARCHER**  _2010 - 2013_  
+**Undergraduate Researcher**  _2010 - 2013_  
 Researcher within medicinal chemistry and physical-chemical research groups. Focused on xanthones synthesis and biological activity assessment.  
 
 
