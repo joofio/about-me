@@ -1,7 +1,7 @@
 # João Almeida
 _Pharmacist, Data Scientist and Healthcare standards engineer based in Porto, Portugal_ <br>
 
-[Email](mailto:joaofcalmeida@outlook.com) / [LinkedIn](https://www.linkedin.com/in/joaofilipealmeida/) / [GitHub](https://github.com/joofio/) / [Twitter](https://twitter.com/4Elemento/)
+[Email](mailto:joaofcalmeida@outlook.com) / [LinkedIn](https://www.linkedin.com/in/joaofilipealmeida/) / [GitHub](https://github.com/joofio/) / [Twitter](https://twitter.com/4Elemento/) / [Medium](https://jfcal.medium.com/) / [IRDCiD](https://orcid.org/0000-0003-0882-6547)
 
 ## 💻 Experience
 
@@ -11,7 +11,7 @@ Data science applied to clinical data for over 5 hospitals. Focused on data qual
   - Developing data pipelines for several machine learning algorithms
   - Creating, deploying and monitoring ML models in several hospitals
   - Creating integration mechanisms with over 15 different suppliers in 7 hospitals
-  - **_Technologies used:_** Mirth Connect, ELK, scikit-learn, Docker, HL7, SNOMED, Flask, caret, pytorch.
+  - **_Technologies used:_** Mirth Connect, ELK, scikit-learn, Docker, HL7, SNOMED, Flask, caret, PyTorch.
 <br><br>
 
 **Invited Lecturer** @ [Faculty of Medicine of University of Porto](https://sigarra.up.pt/fmup/pt/web_page.inicial) _(May 2019 - Present)_ <br>
@@ -45,7 +45,7 @@ Data and business analysis for hospitals in over 13 countries. Great involvement
 ## 📌 Projects
 
 [**Data Synthesis Survey**](https://github.com/joofio/awesome-data-synthesis) <br>
-Survey of the literature compiling all publicly available repositories for data synthesis, focus on tabular and healthcare data. Process-driven and data-driven as well evaluation metrics catalogued.
+Survey of the literature compiling all publicly available repositories for data synthesis, focused on tabular and healthcare data. Process-driven and data-driven as well evaluation metrics catalogued.
   - **_Key Aspects:_** GAN, Bayesian Network, VAE, Machine-Learning, Synthetic data, Data Augmentation
   <br><br>
 
@@ -60,12 +60,14 @@ Tools for consuming drug information databases with several formats and export t
   <br><br>
 
 [**FHIR Server on Heroku**](https://github.com/joofio/hapi-fhir-jpaserver-starter) <br>
-A FHIR server based on HAPI that automatically compiles, build docker image and deploys to Heroku.
+A FHIR server based on HAPI that automatically compiles, builds docker image and deploys to Heroku.
   - **_Key Aspects:_** FHIR, Maven, JAVA, Docker, Heroku, DevOPS
   <br><br>
 
 ## 📃 Publications
-    
+**Treating and diagnosing cancer with nanoparticles** 
+**Evaluation of physicochemical properties of synthetic prenylated xanthone derivatives**
+**Prenylated Xanthonic Derivatives: Optimization of synthetic methodologies and evaluation of physicochemical properties**
 
   
 ## 🏆 Certificates
@@ -81,13 +83,16 @@ IEFP
 
 ## 📢 Associations & Other Roles
 
-**HL7 Portugal**    _2018 - Present_   
+**HL7 Portugal** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  _2018 - Present_   
 Portuguese chapter of the HL7 foundation. Focused on gathering and sharing information about the HL7 standard as well as providing formation and certification in order to improve healthcare interoperability.  
-**E-mais**    _2017 - Present_    
+**E-mais** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$   _2017 - Present_    
 One of the Portuguese representatives in the EFMI (European Federation for Medical Informatics), focused on everything related to digital health.  
-**IHE Pharmacy**  _2016 - Present_  
+**IHE Pharmacy** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  _2016 - Present_  
 A worldwide institution focused on helping to build better information exchange profiles for healthcare facilities and health information Systems.
-**Undergraduate Researcher**  _2010 - 2013_  
+
+**Young Pharmacist Portuguese Association** $~~~~~~~~~~~~~~~~~$  _2018 - 2019_
+
+**Undergraduate Researcher** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  _2010 - 2013_  
 Researcher within medicinal chemistry and physical-chemical research groups. Focused on xanthones synthesis and biological activity assessment.  
 
 
